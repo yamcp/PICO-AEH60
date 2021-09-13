@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name DIN41612-48R)(type KiCad)(uri ${KIPRJMOD}/DIN41612-48R.pretty)(options "")(descr ""))
+)
